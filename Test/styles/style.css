@@ -1,0 +1,336 @@
+body {
+    background-color: rgb(229, 177, 177);
+}
+
+.holder {
+    width: 220px;
+    height: 15px;
+    margin-left: 25px;
+    /* top: 98px; */
+
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+}
+.holdery {
+    width: 220px;
+    height: 15px;
+    margin-left: 45px;
+    /* top: 98px; */
+
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+}
+.holderu {
+    width: 220px;
+    height: 15px;
+    margin-left: 55px;
+    /* top: 98px; */
+
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+}
+.holderi {
+    width: 220px;
+    height: 15px;
+    margin-left: 10px;
+    /* top: 98px; */
+
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+}
+.holdero {
+    width: 220px;
+    height: 15px;
+    margin-left: 69px;
+    /* top: 98px; */
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+}
+.holderp {
+    width: 220px;
+    height: 15px;
+    margin-left: 52px;
+    /* top: 98px; */
+
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+}
+.holdera {
+    width: 220px;
+    height: 15px;
+    margin-left: 38px;
+    /* top: 98px; */
+
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+}
+.holders {
+    width: 220px;
+    height: 15px;
+    margin-left: 25px;
+    /* top: 98px; */
+
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+}
+.holderq{
+    width: 220px;
+    height: 15px;
+    margin-left: 46px;
+    /* top: 98px; */
+
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+}
+.holderw {
+    width: 220px;
+    height: 15px;
+    margin-left: 25px;
+    /* top: 98px; */
+
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+}
+.holdere {
+    width: 220px;
+    height: 15px;
+    margin-left: 50px;
+    /* top: 98px; */
+
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+}
+.holderr {
+    width: 220px;
+    height: 15px;
+    margin-left: 19px;
+    /* top: 98px; */
+
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+}
+.holdert {
+    width: 226px;
+    height: 20px;
+    margin-top: 1px;
+    margin-left: 39px;
+    /* top: 98px; */
+
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+}
+
+.cancel {
+    background-color: #FFFFFF;
+    width: 65px;
+    height: 25px;
+    margin-left: 160px;
+    margin-top: 100px;
+
+    border: 1px solid #83BA63;
+    border-radius: 12px;
+    margin-left: 207px;
+    margin-top: 70px;
+ 
+
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+    
+        /* identical to box height */
+    
+        color: #83BA63;
+}
+
+.next {
+    margin-left: 0px;
+    margin-top: 70px;
+    background: #83BA63;
+    border-radius: 12px;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+    
+        /* identical to box height */
+    
+        color: #FFFFFF;
+}
+
+.one {
+    display: flex;
+}
+
+.divOne {
+    width: 365px;
+    height: 321px;
+    margin-left: 38px;
+    margin-top: 186px;
+    background-color: white;
+}
+
+.divTwo {
+    width: 365px;
+    height: 321px;
+    margin-left: 38px;
+    margin-top: 186px;
+    background-color: white;
+}
+
+.cancelOne {
+    background-color: #FFFFFF;
+    width: 65px;
+    height: 25px;
+    margin-left: 160px;
+    margin-top: 130px;
+
+    border: 1px solid #83BA63;
+    border-radius: 12px;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+    
+        /* identical to box height */
+    
+        color: #83BA63;
+}
+.preOne {
+    background-color: #FFFFFF;
+    width: 65px;
+    height: 25px;
+    margin-left: 0px;
+    margin-top: 130px;
+
+    border: 1px solid #83BA63;
+    border-radius: 12px;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+    
+        /* identical to box height */
+    
+        color: #83BA63;
+}
+.nextOne {
+    margin-left: 0px;
+    margin-top: 70px;
+    background: #83BA63;
+    border-radius: 12px;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+    
+        /* identical to box height */
+    
+        color: #FFFFFF;
+}
+.cancelTwo{
+    background-color: #FFFFFF;
+    width: 65px;
+    height: 25px;
+    margin-left: 160px;
+    margin-top: 110px;
+
+    border: 1px solid #83BA63;
+    border-radius: 12px;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+    
+        /* identical to box height */
+    
+        color: #83BA63;
+}
+.preTwo{
+    background-color: #FFFFFF;
+width: 65px;
+    height: 25px;
+    margin-left: 0px;
+    margin-top: 110px;
+
+    border: 1px solid #83BA63;
+    border-radius: 12px;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+    
+        /* identical to box height */
+    
+        color: #83BA63;
+}
+.nextTwo{
+
+margin-left: 0px;
+    margin-top: 70px;
+    background: #83BA63;
+    border-radius: 12px;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+    
+        /* identical to box height */
+    
+        color: #FFFFFF;
+}
+.name {
+
+    /* width: 230px; */
+    height: 38px;
+    margin-left: 25px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    color: #2C2C2C;
+}
+
+label {
+    width: 59px;
+    height: 14px;
+    /* left: 25px;
+    top: 102.37px; */
+    margin-left: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+
+    /* identical to box height */
+
+    color: #2C2C2C;
+}
+
+.div {
+    margin-top: 186px;
+    margin-left: 96px;
+    background: #FFFFFF;
+    width: 365px;
+    height: 321px;
+    box-shadow: 0px 4px 34px rgba(0, 0, 0, 0.24);
+}
+
+.img{
+    width: 20px;
+    margin-top: 10px;
+    margin-left: 335px;
+}
