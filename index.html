@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles/styles.css" />
+    <title>Test</title>
+  </head>
+  <body>
+    <div class="one">
+      <div class="div">
+        <img class="img" src="img/OOjs_UI_icon_close.svg.png" alt="close" />
+        <form class="formOne" name="user" action="land_php" method="post">
+          <legend class="name">Invoice Address</legend>
+          <label for="Username">Company*</label>
+          <input
+            class="holder"
+            type="text"
+            name="Company"
+            placeholder=""
+            id="Company"
+            required="true"
+          />
+          <br />
+          <label for="Username">Name*</label>
+          <input
+            class="holderq"
+            type="text"
+            name="Name"
+            placeholder=""
+            id="Name"
+            required="true"
+          />
+          <br />
+          <label for="Username">Additional</label>
+          <input class="holderw type="text" name="Additional" placeholder=""
+          id="Additional" >
+          <br />
+          <label for="Username">Street</label>
+          <input class="holdere type="text" name="Street" placeholder=""
+          id="Street">
+          <br />
+          <label for="Username">Postal code</label>
+          <input class="holderr type="text" name="Postal code" placeholder=""
+          id="Postal code" >
+          <br />
+          <label for="Username">Country</label>
+          <select class="holdert type="text" name="Country" placeholder=""
+          id="Country">
+          <input class="cancel" type="submit" value="Cancel" />
+          <input class="next" type="submit" value="Next" />
+        </form>
+      </div>
+      <div class="divOne">
+        <img class="img" src="img/OOjs_UI_icon_close.svg.png" alt="close" />
+        <form name="user" action="land_php" method="post">
+          <legend class="name">Bank Data</legend>
+          <label for="Username">IBAN*</label>
+          <input class="holdery type="text" name="IBAN" placeholder="" id="IBAN"
+          required="true" />
+          <br />
+          <label for="Username">BIC*</label>
+          <input class="holderu type="text" name="BIC" placeholder="" id="BIC"
+          required="true" />
+          <br />
+          <label for="Username">Bank name*</label>
+          <input class="holderi type="text" name="Bank name" placeholder=""
+          id="Bank name" required="true" />
+          <br />
+          <input class="cancelOne" type="submit" value="Cancel" />
+          <input class="preOne" type="submit" value="Previous" />
+          <input class="nextOne" type="submit" value="Next" />
+        </form>
+      </div>
+      <div class="divTwo">
+        <img class="img" src="img/OOjs_UI_icon_close.svg.png" alt="close" />
+        <form name="user" action="land_php" method="post">
+          <legend class="name">Contact</legend>
+          <label for="Username">Fax</label>
+          <input class="holdero type="text" name="Fax" placeholder="" id="Fax"
+          />
+          <br />
+          <label for="Username">E-mail</label>
+          <input class="holderp type="text" name="E-mail" placeholder=""
+          id="E-mail" />
+          <br />
+          <label for="Username">Birthday</label>
+          <input
+            class="holdera"
+            type="date"
+            name="Birthday"
+            placeholder=""
+            id="Birthday"
+          />
+          <br />
+          <label for="Username">Homepage</label>
+          <input class="holders type="text" name="Homepage" placeholder=""
+          id="Homepage" />
+          <br />
+          <input class="cancelTwo" type="submit" value="Cancel" />
+          <input class="preTwo" type="submit" value="Previous" />
+          <input class="nextTwo" type="submit" value="Save" />
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
+
